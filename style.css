@@ -552,6 +552,11 @@ p {
        text-align: left;
        margin-bottom: 24px;
    }
+    .ban-bottom {
+        display: flex;
+        justify-content: left;
+        align-items: flex-start;
+    }
 
    .putin {
        display: flex;
@@ -574,7 +579,7 @@ p {
        letter-spacing: -0.02em;
    }
    .ban-bottom span {
-       display: inline-block;
+       display: inline;
        font-size: 14px;
        line-height: 1.714285714285714;
    }
