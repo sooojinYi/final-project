@@ -56,6 +56,9 @@ p {
  .container {
      max-width: 960px!important;
  }
+ .body {
+     width: 100%;
+ }
  }
 
 /*landing-page*/
